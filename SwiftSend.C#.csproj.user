@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="pgAuthentication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pgClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pgEmailCommunication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pgEmailConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pgEmailTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pgMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pgStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
