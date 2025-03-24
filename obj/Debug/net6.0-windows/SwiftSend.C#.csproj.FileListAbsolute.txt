@@ -1,0 +1,97 @@
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.csproj.GenerateResource.cache
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.GeneratedMSBuildEditorConfig.editorconfig
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.AssemblyInfoInputs.cache
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.AssemblyInfo.cs
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.csproj.CoreCompileInputs.cache
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgMenu.resources
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.exe
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.deps.json
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.runtimeconfig.json
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.pdb
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\refint\SwiftSend.C#.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.pdb
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.genruntimeconfig.cache
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\ref\SwiftSend.C#.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgAuthentication.resources
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\Google.Protobuf.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\MySql.Data.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Text.Json.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\ZstdSharp.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.csproj.AssemblyReference.cache
+H:\Year 2\Greg\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.dll.config
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.csproj.CopyComplete
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgClasses.resources
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgEmailCommunication.resources
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgEmailTemplate.resources
+H:\Year 2\Greg\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgStudents.resources
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.exe
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.dll.config
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.deps.json
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.runtimeconfig.json
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\SwiftSend.C#.pdb
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.csproj.AssemblyReference.cache
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgAuthentication.resources
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgClasses.resources
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgEmailCommunication.resources
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgEmailTemplate.resources
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgMenu.resources
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgStudents.resources
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.csproj.GenerateResource.cache
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.AssemblyInfoInputs.cache
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.AssemblyInfo.cs
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.csproj.CoreCompileInputs.cache
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSen.78265FCA.Up2Date
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\refint\SwiftSend.C#.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.pdb
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C#.genruntimeconfig.cache
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\ref\SwiftSend.C#.dll
+C:\Users\itloan\Desktop\New folder\Hristo\Greg's Work\L14\SwiftSend.C#\obj\Debug\net6.0-windows\SwiftSend.C_.pgEmailConfirmation.resources
